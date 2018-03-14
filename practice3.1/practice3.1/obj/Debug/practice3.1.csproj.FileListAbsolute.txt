@@ -4,3 +4,6 @@ C:\Users\user\Documents\Visual Studio 2015\Projects\practice3.1\practice3.1\prac
 C:\Users\user\Documents\Visual Studio 2015\Projects\practice3.1\practice3.1\practice3.1\obj\Debug\practice3.1.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\Visual Studio 2015\Projects\practice3.1\practice3.1\practice3.1\obj\Debug\practice3.1.exe
 C:\Users\user\Documents\Visual Studio 2015\Projects\practice3.1\practice3.1\practice3.1\obj\Debug\practice3.1.pdb
+C:\Users\user\Documents\code\CSharpHW\practice3.1\practice3.1\bin\Debug\practice3.1.exe.config
+C:\Users\user\Documents\code\CSharpHW\practice3.1\practice3.1\obj\Debug\practice3.1.exe
+C:\Users\user\Documents\code\CSharpHW\practice3.1\practice3.1\obj\Debug\practice3.1.pdb

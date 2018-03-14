@@ -22,10 +22,7 @@ namespace practice3._1
                 {
                     for (i = 1; i <= num; i++)
                     {
-                        for (j = 1; j <= num; j++)
-                        {
-                            Console.Write("*");
-                        }
+                        for (j = 1; j <= num; j++)  Console.Write("*");
                         Console.Write("\n");
                     }
                 }
@@ -33,14 +30,8 @@ namespace practice3._1
                 {
                     for (i = 1; i <= num; i++)
                     {
-                        for (j = 1; j <= num - i; j++)
-                        {
-                            Console.Write(" ");
-                        }
-                        for (k = 1; k < i * 2; k++)
-                        {
-                            Console.Write("{0}", i);
-                        }
+                        for (j = 1; j <= num - i; j++)  Console.Write(" ");
+                        for (k = 1; k < i * 2; k++)  Console.Write("{0}", i);
                         Console.Write("\n");
                     }
                 }
